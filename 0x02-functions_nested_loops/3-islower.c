@@ -7,9 +7,9 @@
  * otherwise always 0
  */
 
-int _islower(int i)
+int _islower(int a)
 {
-if (i >= 97 && i <= 122)
+if (a >= 97 && a <= 122)
 {
 return (1);
 }
