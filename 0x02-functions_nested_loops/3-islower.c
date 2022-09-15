@@ -3,6 +3,7 @@
 /**
  * _islower - checks for lowercase character.
  *
+ * @a is the input to the function
  * Return: returns 1 if i is lowercase
  * otherwise always 0
  */
