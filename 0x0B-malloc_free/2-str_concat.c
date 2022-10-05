@@ -49,3 +49,4 @@ while (*s1)
 while ((*tmp++ = *s2++))
 ;
 return (conc);
+}
